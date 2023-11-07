@@ -1,3 +1,6 @@
 // desafio do felipão
 
-console.log("olá")
+let nome = "Danilo o lindão"
+
+
+console.log(nome)
